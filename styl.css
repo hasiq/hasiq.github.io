@@ -1,0 +1,55 @@
+#tresc
+{  
+    float: left;
+    width: 70%;
+}
+
+#pasekb
+{
+   float: right;
+    width: 28%;
+    border: solid 2px;
+    padding-left: 10px;
+    
+}
+
+#naglowek
+{   
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+#stopka
+{
+    clear: both;
+    text-align: center;
+}
+
+#calosc
+{
+    max-width: 1100px;
+    max-height: 760px;
+    border-style: double;
+    background-image: url(pobrany%20plik.jpg);
+}
+
+#menu 
+{
+    text-align: left;
+}
+
+#manu a:link, menu a:visited
+{
+    font-weight: bold;
+}
+
+#menu a:hover
+{
+    background-color: #E5C76B;
+}
+
+#kalendarz
+{
+    text-align: left;
+}
